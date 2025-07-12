@@ -1,4 +1,0 @@
-In this schematic, we use the adafruit flora as our main microcontrontoller of choice.
-We use 4 data pads, along with the VCC pad to take inputs of our "clicks". To register these inputs, we use piezoelectric discs.
-We have soldered a 1 megaohm resistor across the piezo wire
-We have soldered an OLED display to Ground, SDA, SCL and 3.3 V pads
